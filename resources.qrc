@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/carcasa.png</file>
+        <file>Resources/rotor.png</file>
+        <file>Resources/image.png</file>
+    </qresource>
+</RCC>
